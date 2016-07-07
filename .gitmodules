@@ -1,0 +1,375 @@
+[submodule "tool-kit/publics/goAgent"]
+	path = tool-kit/publics/goAgent
+	url = https://github.com/GdZ/goagent.git
+[submodule "tool-kit/publics/ext4-utils"]
+	path = tool-kit/publics/ext4-utils
+	url = https://github.com/YuLaw/ext4-utils.git
+[submodule "testing/company/monkeyrunner"]
+	path = testing/company/monkeyrunner
+	url = git@github.com:GdZ/AutoTest.git
+[submodule "tool-kit/publics/eDict"]
+	path = tool-kit/publics/eDict
+	url = git@github.com:GdZ/eDict.git
+[submodule "tool-kit/company/excel-writer-xlsx"]
+	path = tool-kit/company/excel-writer-xlsx
+	url = https://github.com/jmcnamara/excel-writer-xlsx.git
+[submodule "tool-kit/publics/go"]
+	path = tool-kit/publics/go
+	url = https://github.com/tav/go.git
+[submodule "configs/private/config"]
+	path = configs/private/config
+	url = git@www.cloris.com:config.git
+[submodule "configs/publics/host.def"]
+	path = configs/publics/host.def
+	url = git@github.com:GdZ/google-hosts.git
+[submodule "projects/publics/image.cached/picasso"]
+	path = projects/publics/image.cached/picasso
+	url = git@github.com:square/picasso.git
+[submodule "projects/publics/mobile/osmocom-bb"]
+	path = projects/publics/mobile/osmocom-bb
+	url = git@github.com:korczis/osmocom-bb.git
+[submodule "tool-kit/publics/remote-desktop-clients"]
+	path = tool-kit/publics/remote-desktop-clients
+	url = https://github.com/iiordanov/remote-desktop-clients.git
+[submodule "webapps/publics/sites/PHPMailer"]
+	path = webapps/publics/sites/PHPMailer
+	url = https://github.com/Synchro/PHPMailer.git
+[submodule "testing/company/MemTest"]
+	path = testing/company/MemTest
+	url = git@www.cloris.com:MemTest.git
+[submodule "tool-kit/publics/homebrew"]
+	path = tool-kit/publics/homebrew
+	url = https://github.com/mxcl/homebrew.git
+[submodule "tool-kit/publics/solarized"]
+	path = tool-kit/publics/solarized
+	url = https://github.com/altercation/solarized.git
+[submodule "projects/publics/gfw/openwrt-gfw"]
+	path = projects/publics/gfw/openwrt-gfw
+	url = https://github.com/hackgfw/openwrt-gfw.git
+[submodule "projects/publics/gfw/openwrt-fanqiang"]
+	path = projects/publics/gfw/openwrt-fanqiang
+	url = https://github.com/softwaredownload/openwrt-fanqiang.git
+[submodule "projects/publics/openwrt"]
+	path = projects/publics/openwrt
+	url = https://github.com/openwrt-mirror/openwrt.git
+[submodule "tool-kit/publics/git"]
+	path = tool-kit/publics/git
+	url = https://github.com/git/git
+[submodule "tool-kit/publics/openocd"]
+	path = tool-kit/publics/openocd
+	url = https://github.com/ntfreak/openocd.git
+[submodule "projects/publics/svg-android"]
+	path = projects/publics/svg-android
+	url = git@github.com:GdZ/svg-android.git
+[submodule "projects/publics/12306_ticket_helper"]
+	path = projects/publics/12306_ticket_helper
+	url = git@github.com:GdZ/12306_ticket_helper.git
+[submodule "docs/publics/TECP"]
+	path = docs/publics/TECP
+	url = git@github.com:GdZ/TECP.git
+[submodule "projects/publics/nodejs/node"]
+	path = projects/publics/nodejs/node
+	url = git@github.com:joyent/node.git
+[submodule "docs/publics/NodeBeginngerBook"]
+	path = docs/publics/NodeBeginngerBook
+	url = git@github.com:GdZ/NodeBeginngerBook.git
+[submodule "webapps/publics/httpserver"]
+	path = webapps/publics/httpserver
+	url = https://github.com/youngj/httpserver.git
+[submodule "testing/publics/AutoTest"]
+	path = testing/publics/AutoTest
+	url = git@github.com:GdZ/AutoTest.git
+[submodule "tool-kit/publics/8021xclient-for-windows"]
+	path = tool-kit/publics/8021xclient-for-windows
+	url = https://github.com/tengattack/8021xclient-for-windows.git
+[submodule "libs/publics/web/jquery-ui"]
+	path = libs/publics/web/jquery-ui
+	url = git@github.com:GdZ/jquery-ui.git
+[submodule "libs/publics/csshake"]
+	path = libs/publics/csshake
+	url = git@github.com:GdZ/csshake.git
+[submodule "libs/publics/kHTTPd-Mini"]
+	path = libs/publics/kHTTPd-Mini
+	url = https://github.com/K-Shadow/kHTTPd-Mini.git
+[submodule "tool-kit/publics/ubuntu-tweak"]
+	path = tool-kit/publics/ubuntu-tweak
+	url = git@github.com:GdZ/ubuntu-tweak.git
+[submodule "tool-kit/publics/njit8021xclient"]
+	path = tool-kit/publics/njit8021xclient
+	url = git@github.com:GdZ/njit8021xclient.git
+[submodule "libs/publics/BassDiffusion"]
+	path = libs/publics/BassDiffusion
+	url = git@github.com:GdZ/BassDiffusion.git
+[submodule "projects/publics/2048"]
+	path = projects/publics/2048
+	url = git@github.com:GdZ/2048.git
+[submodule "testing/publics/jsonTest"]
+	path = testing/publics/jsonTest
+	url = git@github.com:GdZ/jsonTest.git
+[submodule "libs/publics/py/gunicorn"]
+	path = libs/publics/py/gunicorn
+	url = https://github.com/benoitc/gunicorn.git
+[submodule "webapps/company/web.server"]
+	path = webapps/company/web.server
+	url = git@www.cloris.com:web.server.git
+[submodule "libs/publics/py/http/HTTP"]
+	path = libs/publics/py/http/HTTP
+	url = https://github.com/FalconShock/HTTP.git
+[submodule "toturs/publics/py/http/http_tutorial"]
+	path = toturs/publics/py/http/http_tutorial
+	url = https://github.com/briandorsey/http_tutorial.git
+[submodule "webapps/publics/py/http/simpleHttpServer"]
+	path = webapps/publics/py/http/simpleHttpServer
+	url = git@github.com:GdZ/simpleHttpServer.git
+[submodule "webapps/publics/py/http/aiohttp"]
+	path = webapps/publics/py/http/aiohttp
+	url = https://github.com/KeepSafe/aiohttp.git
+[submodule "libs/publics/py/simplejson"]
+	path = libs/publics/py/simplejson
+	url = https://github.com/simplejson/simplejson.git
+[submodule "tool-kit/publics/software/remarkable"]
+	path = tool-kit/publics/software/remarkable
+	url = https://github.com/jonschlinkert/remarkable.git
+[submodule "projects/publics/hacker-scripts"]
+	path = projects/publics/hacker-scripts
+	url = https://github.com/NARKOZ/hacker-scripts.git
+[submodule "toturs/publics/awesome-c"]
+	path = toturs/publics/awesome-c
+	url = https://notabug.org/koz.ross/awesome-c.git
+[submodule "toturs/publics/awesome-c-cn"]
+	path = toturs/publics/awesome-c-cn
+	url = git@github.com:GdZ/awesome-c-cn.git
+[submodule "toturs/publics/awesome-cl"]
+	path = toturs/publics/awesome-cl
+	url = https://github.com/CodyReichert/awesome-cl.git
+[submodule "toturs/publics/awesome-gamedev"]
+	path = toturs/publics/awesome-gamedev
+	url = https://notabug.org/koz.ross/awesome-gamedev.git
+[submodule "toturs/publics/awesome-machine-learning"]
+	path = toturs/publics/awesome-machine-learning
+	url = https://github.com/josephmisiti/awesome-machine-learning.git
+[submodule "toturs/publics/awesome-python"]
+	path = toturs/publics/awesome-python
+	url = https://github.com/vinta/awesome-python.git
+[submodule "toturs/publics/awesome-scala"]
+	path = toturs/publics/awesome-scala
+	url = https://github.com/lauris/awesome-scala.git
+[submodule "toturs/publics/awesome-honeypots"]
+	path = toturs/publics/awesome-honeypots
+	url = https://github.com/paralax/awesome-honeypots.git
+[submodule "toturs/publics/awesome-aws"]
+	path = toturs/publics/awesome-aws
+	url = https://github.com/donnemartin/awesome-aws.git
+[submodule "toturs/publics/awesome-sqlalchemy"]
+	path = toturs/publics/awesome-sqlalchemy
+	url = https://github.com/dahlia/awesome-sqlalchemy.git
+[submodule "toturs/publics/awesome-react"]
+	path = toturs/publics/awesome-react
+	url = https://github.com/enaqx/awesome-react.git
+[submodule "toturs/publics/awesome-ctf"]
+	path = toturs/publics/awesome-ctf
+	url = https://github.com/apsdehal/awesome-ctf.git
+[submodule "toturs/publics/awesome-awesomeness-zh_CN"]
+	path = toturs/publics/awesome-awesomeness-zh_CN
+	url = https://github.com/justjavac/awesome-awesomeness-zh_CN.git
+[submodule "toturs/publics/free-programming-books-zh_CN"]
+	path = toturs/publics/free-programming-books-zh_CN
+	url = https://github.com/justjavac/free-programming-books-zh_CN.git
+[submodule "toturs/publics/getAwesomeness"]
+	path = toturs/publics/getAwesomeness
+	url = https://github.com/panzhangwang/getAwesomeness.git
+[submodule "toturs/publics/Android-Tips"]
+	path = toturs/publics/Android-Tips
+	url = https://github.com/tangqi92/Android-Tips.git
+[submodule "toturs/publics/awesome-kotlin"]
+	path = toturs/publics/awesome-kotlin
+	url = https://github.com/JavaBy/awesome-kotlin.git
+[submodule "tool-kit/publics/apfel/syringe"]
+	path = tool-kit/publics/apfel/syringe
+	url = https://github.com/Chronic-Dev/syringe.git
+[submodule "libs/publics/sublime-imefix/sublime-imethod-fix"]
+	path = libs/publics/sublime-imefix/sublime-imethod-fix
+	url = https://github.com/whitequark/sublime-imethod-fix.git
+[submodule "libs/publics/sublime-imefix/InputHelper"]
+	path = libs/publics/sublime-imefix/InputHelper
+	url = https://github.com/xgenvn/InputHelper.git
+[submodule "libs/publics/sublime-imefix/sublime-text-imfix"]
+	path = libs/publics/sublime-imefix/sublime-text-imfix
+	url = https://github.com/lyfeyaj/sublime-text-imfix.git
+[submodule "libs/publics/sublime-imefix/IMESupport"]
+	path = libs/publics/sublime-imefix/IMESupport
+	url = https://github.com/chikatoike/IMESupport.git
+[submodule "libs/publics/sublime-imefix/SublimeIBus"]
+	path = libs/publics/sublime-imefix/SublimeIBus
+	url = https://github.com/oglops/SublimeIBus.git
+[submodule "libs/publics/sublime-imefix/SublimeMozcInput"]
+	path = libs/publics/sublime-imefix/SublimeMozcInput
+	url = https://github.com/yasuyuky/SublimeMozcInput.git
+[submodule "libs/publics/sublime/Packages"]
+	path = libs/publics/sublime/Packages
+	url = https://github.com/sublimehq/Packages.git
+[submodule "projects/publics/android/m75-MX4"]
+	path = projects/publics/android/m75-MX4
+	url = https://github.com/meizuosc/m75.git
+[submodule "projects/publics/android/m576-MX5pro"]
+	path = projects/publics/android/m576-MX5pro
+	url = https://github.com/meizuosc/m576.git
+[submodule "projects/publics/deepmind/AlphaGo"]
+	path = projects/publics/deepmind/AlphaGo
+	url = https://github.com/Rochester-NRT/AlphaGo.git
+[submodule "uni/company/betoptop/laravel-getting-started.wiki"]
+	path = uni/company/betoptop/laravel-getting-started.wiki
+	url = https://github.com/huanghua581/laravel-getting-started.wiki.git
+[submodule "uni/company/betoptop/laravel-getting-started"]
+	path = uni/company/betoptop/laravel-getting-started
+	url = https://github.com/huanghua581/laravel-getting-started.git
+[submodule "uni/company/betoptop/LikeLaravel"]
+	path = uni/company/betoptop/LikeLaravel
+	url = https://github.com/maliang/LikeLaravel.git
+[submodule "docs/publics/translate/LCTT.github.io"]
+	path = docs/publics/translate/LCTT.github.io
+	url = https://github.com/LCTT/LCTT.github.io.git
+[submodule "tool-kit/publics/spiders/crawlzilla"]
+	path = tool-kit/publics/spiders/crawlzilla
+	url = https://github.com/shunfa/crawlzilla.git
+[submodule "tool-kit/publics/spiders/heritrix3"]
+	path = tool-kit/publics/spiders/heritrix3
+	url = https://github.com/internetarchive/heritrix3.git
+[submodule "tool-kit/publics/spiders/jspider"]
+	path = tool-kit/publics/spiders/jspider
+	url = https://github.com/jiangy/jspider.git
+[submodule "tool-kit/publics/spiders/webmagic"]
+	path = tool-kit/publics/spiders/webmagic
+	url = https://github.com/code4craft/webmagic.git
+[submodule "tool-kit/publics/spiders/jobhunter"]
+	path = tool-kit/publics/spiders/jobhunter
+	url = https://github.com/webmagic-io/jobhunter.git
+[submodule "libs/publics/javascript"]
+	path = libs/publics/javascript
+	url = https://github.com/shakusi2009/javascript.git
+[submodule "toturs/publics/the-way-to-go_ZH_CN"]
+	path = toturs/publics/the-way-to-go_ZH_CN
+	url = https://github.com/shakusi2009/the-way-to-go_ZH_CN.git
+[submodule "configs/publics/Hosts"]
+	path = configs/publics/Hosts
+	url = https://github.com/shakusi2009/Hosts.git
+[submodule "configs/publics/huhamhire-hosts"]
+	path = configs/publics/huhamhire-hosts
+	url = https://github.com/huhamhire/huhamhire-hosts.git
+[submodule "tool-kit/publics/spiders/webmagic.docs"]
+	path = tool-kit/publics/spiders/webmagic.docs
+	url = https://github.com/webmagic-io/docs.git
+[submodule "tool-kit/publics/spiders/webmagic-io.github.io"]
+	path = tool-kit/publics/spiders/webmagic-io.github.io
+	url = https://github.com/webmagic-io/webmagic-io.github.io.git
+[submodule "others/topics/vote_against_37"]
+	path = others/topics/vote_against_37
+	url = https://github.com/ericls/vote_against_37.git
+[submodule "others/topics/loggerhead.vote_against_37"]
+	path = others/topics/loggerhead.vote_against_37
+	url = https://github.com/loggerhead/vote_against_37.git
+[submodule "tool-kit/publics/android/repo"]
+	path = tool-kit/publics/android/repo
+	url = https://github.com/FlymeOS/repo.git
+[submodule "uni/company/betoptop/magento/magento2"]
+	path = uni/company/betoptop/magento/magento2
+	url = https://github.com/magento/magento2
+[submodule "uni/company/eqplay/source/BMI160_driver"]
+	path = uni/company/eqplay/source/BMI160_driver
+	url = https://github.com/BoschSensortec/BMI160_driver.git
+[submodule "tool-kit/publics/ppm/grw"]
+	path = tool-kit/publics/ppm/grw
+	url = https://github.com/wufeifei/grw.git
+[submodule "tool-kit/publics/spiders/scrapy/dirbot"]
+	path = tool-kit/publics/spiders/scrapy/dirbot
+	url = https://github.com/GdZ/dirbot.git
+[submodule "tool-kit/publics/spiders/scrapy/scrapy_doc_chs"]
+	path = tool-kit/publics/spiders/scrapy/scrapy_doc_chs
+	url = https://github.com/marchtea/scrapy_doc_chs.git
+[submodule "tool-kit/publics/spiders/scrapy/scrapy"]
+	path = tool-kit/publics/spiders/scrapy/scrapy
+	url = https://github.com/scrapy/scrapy.git
+[submodule "uni/company/betoptop/laravel"]
+	path = uni/company/betoptop/laravel
+	url = https://github.com/laravel/laravel.git
+[submodule "configs/publics/vim"]
+	path = configs/publics/vim
+	url = https://github.com/vim/vim.git
+[submodule "configs/publics/vim.plugin/vundle"]
+	path = configs/publics/vim.plugin/vundle
+	url = https://github.com/gmarik/vundle.git
+[submodule "configs/publics/vim.plugin/vim_cfg"]
+	path = configs/publics/vim.plugin/vim_cfg
+	url = https://github.com/GdZ/vim_cfg.git
+[submodule "configs/publics/vim.plugin/spf13-vim"]
+	path = configs/publics/vim.plugin/spf13-vim
+	url = https://github.com/spf13/spf13-vim.git
+[submodule "configs/publics/sh.plugin/oh-my-zsh"]
+	path = configs/publics/sh.plugin/oh-my-zsh
+	url = https://github.com/GdZ/oh-my-zsh.git
+[submodule "webapps/private/gdz.github.io"]
+	path = webapps/private/gdz.github.io
+	url = git@github.com:GdZ/gdz.github.io.git
+[submodule "tool-kit/publics/software/version/gitolite"]
+	path = tool-kit/publics/software/version/gitolite
+	url = git://github.com/sitaramc/gitolite
+[submodule "tool-kit/publics/yunPan/onedrive-d-old"]
+	path = tool-kit/publics/yunPan/onedrive-d-old
+	url = https://github.com/xybu/onedrive-d-old.git
+[submodule "tool-kit/publics/yunPan/grive"]
+	path = tool-kit/publics/yunPan/grive
+	url = https://github.com/Grive/grive.git
+[submodule "tool-kit/publics/yunPan/grive2"]
+	path = tool-kit/publics/yunPan/grive2
+	url = https://github.com/vitalif/grive2.git
+[submodule "tool-kit/publics/media/netease/FeelUOwn"]
+	path = tool-kit/publics/media/netease/FeelUOwn
+	url = https://github.com/GdZ/FeelUOwn.git
+[submodule "uni/company/eqplay/source/webService"]
+	path = uni/company/eqplay/source/webService
+	url = git@git.oschina.net:mr.z/webService.git
+[submodule "configs/publics/init_android_env"]
+	path = configs/publics/init_android_env
+	url = git@github.com:GdZ/init_android_env.git
+[submodule "tool-kit/publics/vpc/docker/docker-brew-ubuntu-core"]
+	path = tool-kit/publics/vpc/docker/docker-brew-ubuntu-core
+	url = git@github.com:GdZ/docker-brew-ubuntu-core.git
+[submodule "projects/private/Android-Universal-Image-Loader"]
+	path = projects/private/Android-Universal-Image-Loader
+	url = https://github.com/nostra13/Android-Universal-Image-Loader.git
+[submodule "projects/publics/afinal"]
+	path = projects/publics/afinal
+	url = https://github.com/yangfuhai/afinal.git
+[submodule "docs/publics/translate/TranslateProject"]
+	path = docs/publics/translate/TranslateProject
+	url = https://github.com/LCTT/TranslateProject.git
+[submodule "docs/publics/translate/man-pages"]
+	path = docs/publics/translate/man-pages
+	url = https://github.com/LCTT/man-pages.git
+[submodule "docs/publics/translate/LFS-BOOK"]
+	path = docs/publics/translate/LFS-BOOK
+	url = https://github.com/LCTT/LFS-BOOK.git
+[submodule "docs/publics/translate/LFS-BOOK-7.7-systemd"]
+	path = docs/publics/translate/LFS-BOOK-7.7-systemd
+	url = https://github.com/LCTT/LFS-BOOK-7.7-systemd.git
+[submodule "tool-kit/publics/spiders/playfish"]
+	path = tool-kit/publics/spiders/playfish
+	url = https://github.com/TrumanDu/playfish.git
+[submodule "configs/private/manifests"]
+	path = configs/private/manifests
+	url = git@git.oschina.net:mr.z/Projekte.git
+[submodule "tool-kit/publics/android/tools_repo"]
+	path = tool-kit/publics/android/tools_repo
+	url = https://github.com/android/tools_repo.git
+[submodule "uni/company/eqplay/source/webService.wiki"]
+	path = uni/company/eqplay/source/webService.wiki
+	url = git@git.oschina.net:mr.z/webService.wiki.git
+[submodule "uni/company/betoptop/db_manage"]
+	path = uni/company/betoptop/db_manage
+	url = git@git.oschina.net:mr.z/db_manage.git
+[submodule "libs/publics/android/myrobotlab"]
+	path = libs/publics/android/myrobotlab
+	url = https://github.com/MyRobotLab/repo.git
+[submodule "projects/company/cheniubang_android"]
+	path = projects/company/cheniubang_android
+	url = git@git.cloris.com:cheniubang_android.git

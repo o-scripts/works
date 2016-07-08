@@ -373,3 +373,9 @@
 [submodule "projects/company/cheniubang_android"]
 	path = projects/company/cheniubang_android
 	url = git@git.cloris.com:cheniubang_android.git
+[submodule "tool-kit/company/mtk/mtk-linux"]
+	path = tool-kit/company/mtk/mtk-linux
+	url = https://github.com/chris1uk/mtk-linux.git
+[submodule "tool-kit/company/mtk/SP_Flash_Tools"]
+	path = tool-kit/company/mtk/SP_Flash_Tools
+	url = https://github.com/fermatliu/SP_Flash_Tools.git

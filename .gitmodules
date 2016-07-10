@@ -394,3 +394,6 @@
 [submodule "docs/private/mans"]
 	path = docs/private/mans
 	url = git@git.oschina.net:mr.z/docs_publics_mans.git
+[submodule "configs/company/shell"]
+	path = configs/company/shell
+	url = git@git.oschina.net:mr.z/configs_company_cgmobile_shell.git

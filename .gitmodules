@@ -379,3 +379,9 @@
 [submodule "tool-kit/company/mtk/SP_Flash_Tools"]
 	path = tool-kit/company/mtk/SP_Flash_Tools
 	url = https://github.com/fermatliu/SP_Flash_Tools.git
+[submodule "uni/organations"]
+	path = uni/organations
+	url = git@git.oschina.net:mr.z/uni_organations.git
+[submodule "uni/company/organations"]
+	path = uni/company/organations
+	url = git@git.oschina.net:mr.z/uni_organations.git

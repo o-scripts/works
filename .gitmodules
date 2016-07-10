@@ -397,3 +397,6 @@
 [submodule "configs/company/shell"]
 	path = configs/company/shell
 	url = git@git.oschina.net:mr.z/configs_company_cgmobile_shell.git
+[submodule "uni/private/docs"]
+	path = uni/private/docs
+	url = git@git.oschina.net:mr.z/uni_private_docs.git

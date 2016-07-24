@@ -370,9 +370,6 @@
 [submodule "libs/publics/android/myrobotlab"]
 	path = libs/publics/android/myrobotlab
 	url = https://github.com/MyRobotLab/repo.git
-[submodule "projects/company/cheniubang_android"]
-	path = projects/company/cheniubang_android
-	url = git@git.cloris.com:cheniubang_android.git
 [submodule "tool-kit/company/mtk/mtk-linux"]
 	path = tool-kit/company/mtk/mtk-linux
 	url = https://github.com/chris1uk/mtk-linux.git
@@ -400,3 +397,6 @@
 [submodule "uni/private/docs"]
 	path = uni/private/docs
 	url = git@git.oschina.net:mr.z/uni_private_docs.git
+[submodule "projects/company/xingxiu/cheniubang_android"]
+	path = projects/company/xingxiu/cheniubang_android
+	url = git@git.cloris.com:cheniubang_android.git

@@ -4,9 +4,6 @@
 [submodule "tool-kit/publics/ext4-utils"]
 	path = tool-kit/publics/ext4-utils
 	url = https://github.com/YuLaw/ext4-utils.git
-[submodule "testing/company/monkeyrunner"]
-	path = testing/company/monkeyrunner
-	url = git@github.com:GdZ/AutoTest.git
 [submodule "tool-kit/publics/eDict"]
 	path = tool-kit/publics/eDict
 	url = git@github.com:GdZ/eDict.git
@@ -34,9 +31,6 @@
 [submodule "webapps/publics/sites/PHPMailer"]
 	path = webapps/publics/sites/PHPMailer
 	url = https://github.com/Synchro/PHPMailer.git
-[submodule "testing/company/MemTest"]
-	path = testing/company/MemTest
-	url = git@www.cloris.com:MemTest.git
 [submodule "tool-kit/publics/homebrew"]
 	path = tool-kit/publics/homebrew
 	url = https://github.com/mxcl/homebrew.git
@@ -400,3 +394,9 @@
 [submodule "projects/company/xingxiu/cheniubang_android"]
 	path = projects/company/xingxiu/cheniubang_android
 	url = git@git.cloris.com:cheniubang_android.git
+[submodule "testing/company/cgmobile/MemTest"]
+	path = testing/company/cgmobile/MemTest
+	url = git@www.cloris.com:MemTest.git
+[submodule "testing/company/cgmobile/AutoTest"]
+	path = testing/company/cgmobile/AutoTest
+	url = git@github.com:GdZ/AutoTest.git

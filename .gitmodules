@@ -37,9 +37,6 @@
 [submodule "testing/company/MemTest"]
 	path = testing/company/MemTest
 	url = git@www.cloris.com:MemTest.git
-[submodule "tool-kit/publics/homebrew"]
-	path = tool-kit/publics/homebrew
-	url = https://github.com/mxcl/homebrew.git
 [submodule "tool-kit/publics/solarized"]
 	path = tool-kit/publics/solarized
 	url = https://github.com/altercation/solarized.git
@@ -400,3 +397,6 @@
 [submodule "projects/company/xingxiu/cheniubang_android"]
 	path = projects/company/xingxiu/cheniubang_android
 	url = git@git.cloris.com:cheniubang_android.git
+[submodule "docs/publics/docker/docker_zh-cn"]
+	path = docs/publics/docker/docker_zh-cn
+	url = https://github.com/widuu/chinese_docker.git

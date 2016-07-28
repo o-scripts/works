@@ -322,9 +322,6 @@
 [submodule "tool-kit/publics/media/netease/FeelUOwn"]
 	path = tool-kit/publics/media/netease/FeelUOwn
 	url = https://github.com/GdZ/FeelUOwn.git
-[submodule "uni/company/eqplay/source/webService"]
-	path = uni/company/eqplay/source/webService
-	url = git@git.oschina.net:mr.z/webService.git
 [submodule "configs/publics/init_android_env"]
 	path = configs/publics/init_android_env
 	url = git@github.com:GdZ/init_android_env.git
@@ -358,9 +355,6 @@
 [submodule "tool-kit/publics/android/tools_repo"]
 	path = tool-kit/publics/android/tools_repo
 	url = https://github.com/android/tools_repo.git
-[submodule "uni/company/eqplay/source/webService.wiki"]
-	path = uni/company/eqplay/source/webService.wiki
-	url = git@git.oschina.net:mr.z/webService.wiki.git
 [submodule "uni/company/betoptop/db_manage"]
 	path = uni/company/betoptop/db_manage
 	url = git@git.oschina.net:mr.z/db_manage.git
@@ -400,3 +394,12 @@
 [submodule "docs/publics/docker/docker_zh-cn"]
 	path = docs/publics/docker/docker_zh-cn
 	url = https://github.com/widuu/chinese_docker.git
+[submodule "uni/company/eqplay/source/C610/webService"]
+	path = uni/company/eqplay/source/C610/webService
+	url = git@git.oschina.net:mr.z/webService.git
+[submodule "uni/company/eqplay/source/C610/chip_c610"]
+	path = uni/company/eqplay/source/C610/chip_c610
+	url = git@git.oschina.net:mr.z/chip_c610.git
+[submodule "uni/company/eqplay/source/C610/webService.wiki"]
+	path = uni/company/eqplay/source/C610/webService.wiki
+	url = git@git.oschina.net:mr.z/webService.wiki.git

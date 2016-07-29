@@ -403,3 +403,6 @@
 [submodule "uni/company/eqplay/source/C610/webService.wiki"]
 	path = uni/company/eqplay/source/C610/webService.wiki
 	url = git@git.oschina.net:mr.z/webService.wiki.git
+[submodule "uni/company/eqplay/source/B318/b318_apps"]
+	path = uni/company/eqplay/source/B318/b318_apps
+	url = git@git.oschina.net:mr.z/b318_apps.git

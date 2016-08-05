@@ -396,13 +396,16 @@
 	url = https://github.com/widuu/chinese_docker.git
 [submodule "uni/company/eqplay/source/C610/webService"]
 	path = uni/company/eqplay/source/C610/webService
-	url = git@git.oschina.net:mr.z/webService.git
+	url = git@git.oschina.net:eqplay/webService.git
 [submodule "uni/company/eqplay/source/C610/chip_c610"]
 	path = uni/company/eqplay/source/C610/chip_c610
-	url = git@git.oschina.net:mr.z/chip_c610.git
+	url = git@git.oschina.net:eqplay/chip_c610.git
 [submodule "uni/company/eqplay/source/C610/webService.wiki"]
 	path = uni/company/eqplay/source/C610/webService.wiki
-	url = git@git.oschina.net:mr.z/webService.wiki.git
+	url = git@git.oschina.net:eqplay/webService.wiki.git
 [submodule "uni/company/eqplay/source/B318/b318_apps"]
 	path = uni/company/eqplay/source/B318/b318_apps
-	url = git@git.oschina.net:mr.z/b318_apps.git
+	url = git@git.oschina.net:eqplay/b318_apps.git
+[submodule "libs/publics/android/FlatUI"]
+	path = libs/publics/android/FlatUI
+	url = https://github.com/eluleci/FlatUI.git

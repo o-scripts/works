@@ -409,3 +409,21 @@
 [submodule "libs/publics/android/FlatUI"]
 	path = libs/publics/android/FlatUI
 	url = https://github.com/eluleci/FlatUI.git
+[submodule "testing/company/cgmobile/MemTest"]
+	path = testing/company/cgmobile/MemTest
+	url = git@git.oschina.net:mr.z/testing_company_cgmobile_memtest.git
+[submodule "libs/publics/ip-pools/ip2region"]
+	path = libs/publics/ip-pools/ip2region
+	url = https://github.com/lionsoul2014/ip2region.git
+[submodule "libs/publics/ip-pools/17mon/python-3rd"]
+	path = libs/publics/ip-pools/17mon/python-3rd
+	url = https://github.com/lxyu/17monip.git
+[submodule "libs/publics/ip-pools/ylinux"]
+	path = libs/publics/ip-pools/ylinux
+	url = https://github.com/gwind/ylinux.git
+[submodule "libs/publics/ip-pools/3rd/ylinux"]
+	path = libs/publics/ip-pools/3rd/ylinux
+	url = https://github.com/gwind/ylinux.git
+[submodule "libs/publics/ip-pools/3rd/ip2region"]
+	path = libs/publics/ip-pools/3rd/ip2region
+	url = https://github.com/lionsoul2014/ip2region.git

@@ -427,3 +427,6 @@
 [submodule "libs/publics/ip-pools/3rd/ip2region"]
 	path = libs/publics/ip-pools/3rd/ip2region
 	url = https://github.com/lionsoul2014/ip2region.git
+[submodule "uni/publics/big.data/commaai/research"]
+	path = uni/publics/big.data/commaai/research
+	url = https://github.com/commaai/research.git

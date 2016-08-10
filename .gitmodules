@@ -430,3 +430,9 @@
 [submodule "uni/publics/big.data/commaai/research"]
 	path = uni/publics/big.data/commaai/research
 	url = https://github.com/commaai/research.git
+[submodule "webapps/publics/easyim/EasyIM-Server"]
+	path = webapps/publics/easyim/EasyIM-Server
+	url = https://github.com/xiezefan/EasyIM-Server.git
+[submodule "webapps/publics/easyim/EasyIM-Android"]
+	path = webapps/publics/easyim/EasyIM-Android
+	url = https://github.com/xiezefan/EasyIM-Android.git

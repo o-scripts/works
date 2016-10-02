@@ -319,9 +319,6 @@
 [submodule "tool-kit/publics/media/netease/FeelUOwn"]
 	path = tool-kit/publics/media/netease/FeelUOwn
 	url = https://github.com/GdZ/FeelUOwn.git
-[submodule "uni/company/eqplay/source/webService"]
-	path = uni/company/eqplay/source/webService
-	url = git@git.oschina.net:mr.z/webService.git
 [submodule "configs/publics/init_android_env"]
 	path = configs/publics/init_android_env
 	url = git@github.com:GdZ/init_android_env.git
@@ -355,9 +352,6 @@
 [submodule "tool-kit/publics/android/tools_repo"]
 	path = tool-kit/publics/android/tools_repo
 	url = https://github.com/android/tools_repo.git
-[submodule "uni/company/eqplay/source/webService.wiki"]
-	path = uni/company/eqplay/source/webService.wiki
-	url = git@git.oschina.net:mr.z/webService.wiki.git
 [submodule "uni/company/betoptop/db_manage"]
 	path = uni/company/betoptop/db_manage
 	url = git@git.oschina.net:mr.z/db_manage.git
@@ -394,9 +388,48 @@
 [submodule "projects/company/xingxiu/cheniubang_android"]
 	path = projects/company/xingxiu/cheniubang_android
 	url = git@git.cloris.com:cheniubang_android.git
-[submodule "testing/company/cgmobile/MemTest"]
-	path = testing/company/cgmobile/MemTest
-	url = git@www.cloris.com:MemTest.git
 [submodule "testing/company/cgmobile/AutoTest"]
 	path = testing/company/cgmobile/AutoTest
 	url = git@github.com:GdZ/AutoTest.git
+[submodule "docs/publics/docker/docker_zh-cn"]
+	path = docs/publics/docker/docker_zh-cn
+	url = https://github.com/widuu/chinese_docker.git
+[submodule "uni/company/eqplay/source/C610/webService"]
+	path = uni/company/eqplay/source/C610/webService
+	url = git@git.oschina.net:eqplay/webService.git
+[submodule "uni/company/eqplay/source/C610/chip_c610"]
+	path = uni/company/eqplay/source/C610/chip_c610
+	url = git@git.oschina.net:eqplay/chip_c610.git
+[submodule "uni/company/eqplay/source/B318/b318_apps"]
+	path = uni/company/eqplay/source/B318/b318_apps
+	url = git@git.oschina.net:eqplay/b318_apps.git
+[submodule "libs/publics/android/FlatUI"]
+	path = libs/publics/android/FlatUI
+	url = https://github.com/eluleci/FlatUI.git
+[submodule "testing/company/cgmobile/MemTest"]
+	path = testing/company/cgmobile/MemTest
+	url = git@git.oschina.net:mr.z/testing_company_cgmobile_memtest.git
+[submodule "libs/publics/ip-pools/ip2region"]
+	path = libs/publics/ip-pools/ip2region
+	url = https://github.com/lionsoul2014/ip2region.git
+[submodule "libs/publics/ip-pools/17mon/python-3rd"]
+	path = libs/publics/ip-pools/17mon/python-3rd
+	url = https://github.com/lxyu/17monip.git
+[submodule "libs/publics/ip-pools/ylinux"]
+	path = libs/publics/ip-pools/ylinux
+	url = https://github.com/gwind/ylinux.git
+[submodule "libs/publics/ip-pools/3rd/ylinux"]
+	path = libs/publics/ip-pools/3rd/ylinux
+	url = https://github.com/gwind/ylinux.git
+[submodule "libs/publics/ip-pools/3rd/ip2region"]
+	path = libs/publics/ip-pools/3rd/ip2region
+	url = https://github.com/lionsoul2014/ip2region.git
+[submodule "uni/publics/big.data/commaai/research"]
+	path = uni/publics/big.data/commaai/research
+	url = https://github.com/commaai/research.git
+[submodule "webapps/publics/easyim/EasyIM-Server"]
+	path = webapps/publics/easyim/EasyIM-Server
+	url = https://github.com/xiezefan/EasyIM-Server.git
+[submodule "webapps/publics/easyim/EasyIM-Android"]
+	path = webapps/publics/easyim/EasyIM-Android
+	url = https://github.com/xiezefan/EasyIM-Android.git

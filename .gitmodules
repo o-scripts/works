@@ -400,6 +400,9 @@
 [submodule "uni/company/eqplay/source/C610/chip_c610"]
 	path = uni/company/eqplay/source/C610/chip_c610
 	url = git@git.oschina.net:eqplay/chip_c610.git
+[submodule "uni/company/eqplay/source/C610/webService.wiki"]
+	path = uni/company/eqplay/source/C610/webService.wiki
+    url = http://git.oschina.net/eqplay/webService.wiki.git
 [submodule "uni/company/eqplay/source/B318/b318_apps"]
 	path = uni/company/eqplay/source/B318/b318_apps
 	url = git@git.oschina.net:eqplay/b318_apps.git
@@ -433,3 +436,6 @@
 [submodule "webapps/publics/easyim/EasyIM-Android"]
 	path = webapps/publics/easyim/EasyIM-Android
 	url = https://github.com/xiezefan/EasyIM-Android.git
+[submodule "uni/publics/deutsch/dw/top-thema"]
+	path = uni/publics/deutsch/dw/top-thema
+	url = git@github.com:GdZ/uni_public_deutsch_dw-top-thema.git

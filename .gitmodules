@@ -436,9 +436,6 @@
 [submodule "webapps/publics/easyim/EasyIM-Android"]
 	path = webapps/publics/easyim/EasyIM-Android
 	url = https://github.com/xiezefan/EasyIM-Android.git
-[submodule "uni/publics/deutsch/dw/top-thema"]
-	path = uni/publics/deutsch/dw/top-thema
-	url = git@github.com:GdZ/uni_public_deutsch_dw-top-thema.git
 [submodule "uni/publics/deutsch/dw/deutsch.lernen"]
 	path = uni/publics/deutsch/dw/deutsch.lernen
 	url = git@github.com:GdZ/uni_public_deutsch_dw_deutschlernen.git

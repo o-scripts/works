@@ -439,3 +439,12 @@
 [submodule "uni/publics/deutsch/dw/top-thema"]
 	path = uni/publics/deutsch/dw/top-thema
 	url = git@github.com:GdZ/uni_public_deutsch_dw-top-thema.git
+[submodule "uni/publics/deutsch/dw/deutsch.lernen"]
+	path = uni/publics/deutsch/dw/deutsch.lernen
+	url = git@github.com:GdZ/uni_public_deutsch_dw_deutschlernen.git
+[submodule "tool-kit/private/spiders/pyspider"]
+	path = tool-kit/private/spiders/pyspider
+	url = git@github.com:GdZ/pyspider.git
+[submodule "uni/publics/deutsch/deutsch_lernen"]
+	path = uni/publics/deutsch/deutsch_lernen
+	url = git@github.com:GdZ/uni_public_deutsch_deutschlernen.git

@@ -439,3 +439,9 @@
 [submodule "uni/publics/deutsch/dw/top-thema"]
 	path = uni/publics/deutsch/dw/top-thema
 	url = git@github.com:GdZ/uni_public_deutsch_dw-top-thema.git
+[submodule "webapps/private/ai.cloris.jcjxpx.com"]
+	path = webapps/private/ai.cloris.jcjxpx.com
+	url = git@git.oschina.net:mr.z/webapp_private_ai-cloris.git
+[submodule "uni/private/fachrichtung"]
+	path = uni/private/fachrichtung
+	url = git@github.com:GdZ/uni_private_fachrichtung.git

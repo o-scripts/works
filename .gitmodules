@@ -454,3 +454,6 @@
 [submodule "uni/publics/tool-kit/SQL2Java"]
 	path = uni/publics/tool-kit/SQL2Java
 	url = git@github.com:GdZ/SQL2Java.git
+[submodule "testing/private/hack/GitHack"]
+	path = testing/private/hack/GitHack
+	url = https://github.com/lijiejie/GitHack.git

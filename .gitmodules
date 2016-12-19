@@ -460,3 +460,6 @@
 [submodule "uni/publics/tool-kit/restful/docs/references"]
 	path = uni/publics/tool-kit/restful/docs/references
 	url = https://github.com/GdZ/restful-api-design-references.git
+[submodule "uni/company/betoptop/WordPress"]
+	path = uni/company/betoptop/WordPress
+	url = https://github.com/WordPress/WordPress.git

@@ -459,4 +459,4 @@
 	url = https://github.com/lijiejie/GitHack.git
 [submodule "uni/private/software-technik/diagnoseIT"]
 	path = uni/private/software-technik/diagnoseIT
-	url = https://github.com/alperhi/diagnoseIT.git
+    url = git@github.com:GdZ/diagnoseIT.git

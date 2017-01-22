@@ -457,3 +457,6 @@
 [submodule "testing/private/hack/GitHack"]
 	path = testing/private/hack/GitHack
 	url = https://github.com/lijiejie/GitHack.git
+[submodule "uni/private/software-technik/diagnoseIT"]
+	path = uni/private/software-technik/diagnoseIT
+	url = https://github.com/alperhi/diagnoseIT.git

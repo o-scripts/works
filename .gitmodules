@@ -451,3 +451,6 @@
 [submodule "uni/company/betoptop/json-decode/java"]
 	path = uni/company/betoptop/json-decode/java
 	url = git@github.com:GdZ/json-java.git
+[submodule "tool-kit/publics/software/editor/ranger"]
+	path = tool-kit/publics/software/editor/ranger
+	url = https://github.com/ranger/ranger.git

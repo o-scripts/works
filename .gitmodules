@@ -454,3 +454,18 @@
 [submodule "tool-kit/publics/software/editor/ranger"]
 	path = tool-kit/publics/software/editor/ranger
 	url = https://github.com/ranger/ranger.git
+[submodule "uni/publics/tool-kit/SQL2Java"]
+	path = uni/publics/tool-kit/SQL2Java
+	url = git@github.com:GdZ/SQL2Java.git
+[submodule "testing/private/hack/GitHack"]
+	path = testing/private/hack/GitHack
+	url = https://github.com/lijiejie/GitHack.git
+[submodule "uni/private/software-technik/diagnoseIT"]
+	path = uni/private/software-technik/diagnoseIT
+    url = git@github.com:GdZ/diagnoseIT.git
+[submodule "uni/publics/tool-kit/restful/docs/references"]
+	path = uni/publics/tool-kit/restful/docs/references
+	url = https://github.com/GdZ/restful-api-design-references.git
+[submodule "uni/company/betoptop/WordPress"]
+	path = uni/company/betoptop/WordPress
+	url = https://github.com/WordPress/WordPress.git

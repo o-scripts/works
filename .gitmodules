@@ -466,3 +466,21 @@
 [submodule "uni/company/betoptop/WordPress"]
 	path = uni/company/betoptop/WordPress
 	url = https://github.com/WordPress/WordPress.git
+[submodule "libs/publics/android/app/parse/android.so"]
+	path = libs/publics/android/app/parse/android.so
+	url = https://github.com/fourbrother/parse_androidso.git
+[submodule "libs/publics/android/app/parse/android.dex"]
+	path = libs/publics/android/app/parse/android.dex
+	url = https://github.com/fourbrother/parse_androiddex.git
+[submodule "libs/publics/android/app/parse/android.src"]
+	path = libs/publics/android/app/parse/android.src
+	url = https://github.com/fourbrother/parse_androidarsc.git
+[submodule "libs/publics/java/meituan/robust"]
+	path = libs/publics/java/meituan/robust
+	url = https://github.com/fourbrother/Robust.git
+[submodule "libs/publics/android/app/update/update.by.diff"]
+	path = libs/publics/android/app/update/update.by.diff
+	url = https://github.com/fourbrother/android_diffupdate.git
+[submodule "docs/publics/mac.osx/macOS-Security-and-Privacy-Guide"]
+	path = docs/publics/mac.osx/macOS-Security-and-Privacy-Guide
+	url = https://github.com/drduh/macOS-Security-and-Privacy-Guide.git

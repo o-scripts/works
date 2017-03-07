@@ -415,3 +415,9 @@
 [submodule "projects/publics/android/packages/apps/Gallery2"]
 	path = projects/publics/android/packages/apps/Gallery2
 	url = https://github.com/CyanogenMod/android_packages_apps_Gallery2.git
+[submodule "projects/publics/android/frameworks/base"]
+	path = projects/publics/android/frameworks/base
+	url = https://github.com/CyanogenMod/android_frameworks_base.git
+[submodule "projects/publics/android/patchrom/miui"]
+	path = projects/publics/android/patchrom/miui
+	url = https://github.com/MiCode/patchrom_miui.git

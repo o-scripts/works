@@ -490,3 +490,6 @@
 [submodule "libs/publics/py/kHTTPd-Mini"]
 	path = libs/publics/py/kHTTPd-Mini
 	url = https://github.com/K-Shadow/kHTTPd-Mini.git
+[submodule "tool-kit/publics/docker/jenkins/jenkins_ci_docker"]
+	path = tool-kit/publics/docker/jenkins/jenkins_ci_docker
+	url = https://github.com/jenkinsci/docker.git

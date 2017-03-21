@@ -490,3 +490,6 @@
 [submodule "libs/publics/py/kHTTPd-Mini"]
 	path = libs/publics/py/kHTTPd-Mini
 	url = https://github.com/K-Shadow/kHTTPd-Mini.git
+[submodule "tool-kit/publics/databases/AliSQL"]
+	path = tool-kit/publics/databases/AliSQL
+	url = https://github.com/alibaba/AliSQL.git

@@ -496,3 +496,6 @@
 [submodule "toturs/publics/awesome-tensorflow"]
 	path = toturs/publics/awesome-tensorflow
 	url = git@github.com:GdZ/awesome-tensorflow.git
+[submodule "toturs/publics/awesome-python-cn"]
+	path = toturs/publics/awesome-python-cn
+	url = https://github.com/jobbole/awesome-python-cn.git

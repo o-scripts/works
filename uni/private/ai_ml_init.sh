@@ -2,6 +2,9 @@
 WORK_DIR=${HOME}/works/uni/ai
 LIB_DIR=${WORK_DIR}/lib
 
+## init folder
+mkdir -p ${LIB_DIR}
+
 ## cafe dor bvml
 CAFE_URL="https://github.com/BVLC/caffe.git";
 

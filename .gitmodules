@@ -13,9 +13,6 @@
 [submodule "tool-kit/publics/go"]
 	path = tool-kit/publics/go
 	url = https://github.com/tav/go.git
-[submodule "configs/private/config"]
-	path = configs/private/config
-	url = git@www.cloris.com:config.git
 [submodule "configs/publics/host.def"]
 	path = configs/publics/host.def
 	url = git@github.com:GdZ/google-hosts.git

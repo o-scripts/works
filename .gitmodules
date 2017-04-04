@@ -502,3 +502,6 @@
 [submodule "configs/private/config"]
 	path = configs/private/config
 	url = git@git.oschina.net:mr.z/configs_private_config
+[submodule "libs/private/resource"]
+	path = libs/private/resource
+	url = git@git.oschina.net:mr.z/libs_private_resource.git

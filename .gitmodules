@@ -505,3 +505,6 @@
 [submodule "libs/private/resource"]
 	path = libs/private/resource
 	url = git@git.oschina.net:mr.z/libs_private_resource.git
+[submodule "toturs/publics/go.wiki"]
+	path = toturs/publics/go.wiki
+	url = https://github.com/golang/go.wiki.git

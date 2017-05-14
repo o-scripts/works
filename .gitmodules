@@ -505,3 +505,6 @@
 [submodule "toturs/publics/tensorflow_tutorials"]
 	path = toturs/publics/tensorflow_tutorials
 	url = https://github.com/pkmital/tensorflow_tutorials.git
+[submodule "toturs/publics/Awesome-Hacking"]
+	path = toturs/publics/Awesome-Hacking
+	url = https://github.com/Hack-with-Github/Awesome-Hacking.git

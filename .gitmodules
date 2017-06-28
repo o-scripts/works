@@ -499,6 +499,15 @@
 [submodule "configs/private/config"]
 	path = configs/private/config
 	url = git@git.oschina.net:mr.z/configs_private_config
+[submodule "libs/private/resource"]
+	path = libs/private/resource
+	url = git@git.oschina.net:mr.z/libs_private_resource.git
+[submodule "toturs/publics/go.wiki"]
+	path = toturs/publics/go.wiki
+	url = https://github.com/golang/go.wiki.git
+[submodule "projects/publics/php/log4php"]
+	path = projects/publics/php/log4php
+	url = https://github.com/Aloi/log4php.git
 [submodule "toturs/publics/tensorflow_tutorials"]
 	path = toturs/publics/tensorflow_tutorials
 	url = https://github.com/pkmital/tensorflow_tutorials.git
@@ -508,3 +517,4 @@
 [submodule "uni/company/betoptop/wechat"]
 	path = uni/company/betoptop/wechat
 	url = git@git.oschina.net:betoptop/uni_company_betoptop_wechat.git
+

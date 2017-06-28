@@ -250,9 +250,6 @@
 [submodule "tool-kit/publics/android/repo"]
 	path = tool-kit/publics/android/repo
 	url = https://github.com/FlymeOS/repo.git
-[submodule "uni/company/betoptop/magento/magento2"]
-	path = uni/company/betoptop/magento/magento2
-	url = https://github.com/magento/magento2
 [submodule "uni/company/eqplay/source/BMI160_driver"]
 	path = uni/company/eqplay/source/BMI160_driver
 	url = https://github.com/BoschSensortec/BMI160_driver.git
@@ -508,3 +505,6 @@
 [submodule "toturs/publics/Awesome-Hacking"]
 	path = toturs/publics/Awesome-Hacking
 	url = https://github.com/Hack-with-Github/Awesome-Hacking.git
+[submodule "uni/company/betoptop/wechat"]
+	path = uni/company/betoptop/wechat
+	url = git@git.oschina.net:betoptop/uni_company_betoptop_wechat.git

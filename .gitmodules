@@ -518,3 +518,6 @@
 	path = uni/company/betoptop/wechat
 	url = git@git.oschina.net:betoptop/uni_company_betoptop_wechat.git
 
+[submodule "uni/publics/facebook/facebook"]
+	path = uni/publics/facebook/facebook
+	url = https://github.com/huandu/facebook.git

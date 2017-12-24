@@ -13,9 +13,6 @@
 [submodule "tool-kit/company/excel-writer-xlsx"]
 	path = tool-kit/company/excel-writer-xlsx
 	url = https://github.com/jmcnamara/excel-writer-xlsx.git
-[submodule "tool-kit/publics/go"]
-	path = tool-kit/publics/go
-	url = https://github.com/tav/go.git
 [submodule "configs/private/config"]
 	path = configs/private/config
 	url = git@www.cloris.com:config.git
@@ -52,9 +49,6 @@
 [submodule "projects/publics/openwrt"]
 	path = projects/publics/openwrt
 	url = https://github.com/openwrt-mirror/openwrt.git
-[submodule "tool-kit/publics/git"]
-	path = tool-kit/publics/git
-	url = https://github.com/git/git
 [submodule "tool-kit/publics/openocd"]
 	path = tool-kit/publics/openocd
 	url = https://github.com/ntfreak/openocd.git
@@ -127,9 +121,6 @@
 [submodule "libs/publics/py/simplejson"]
 	path = libs/publics/py/simplejson
 	url = https://github.com/simplejson/simplejson.git
-[submodule "tool-kit/publics/software/remarkable"]
-	path = tool-kit/publics/software/remarkable
-	url = https://github.com/jonschlinkert/remarkable.git
 [submodule "projects/publics/hacker-scripts"]
 	path = projects/publics/hacker-scripts
 	url = https://github.com/NARKOZ/hacker-scripts.git
@@ -184,9 +175,6 @@
 [submodule "toturs/publics/awesome-kotlin"]
 	path = toturs/publics/awesome-kotlin
 	url = https://github.com/JavaBy/awesome-kotlin.git
-[submodule "tool-kit/publics/apfel/syringe"]
-	path = tool-kit/publics/apfel/syringe
-	url = https://github.com/Chronic-Dev/syringe.git
 [submodule "libs/publics/sublime-imefix/sublime-imethod-fix"]
 	path = libs/publics/sublime-imefix/sublime-imethod-fix
 	url = https://github.com/whitequark/sublime-imethod-fix.git
@@ -268,9 +256,6 @@
 [submodule "others/topics/loggerhead.vote_against_37"]
 	path = others/topics/loggerhead.vote_against_37
 	url = https://github.com/loggerhead/vote_against_37.git
-[submodule "tool-kit/publics/android/repo"]
-	path = tool-kit/publics/android/repo
-	url = https://github.com/FlymeOS/repo.git
 [submodule "uni/company/betoptop/magento/magento2"]
 	path = uni/company/betoptop/magento/magento2
 	url = https://github.com/magento/magento2
@@ -313,15 +298,6 @@
 [submodule "tool-kit/publics/software/version/gitolite"]
 	path = tool-kit/publics/software/version/gitolite
 	url = git://github.com/sitaramc/gitolite
-[submodule "tool-kit/publics/yunPan/onedrive-d-old"]
-	path = tool-kit/publics/yunPan/onedrive-d-old
-	url = https://github.com/xybu/onedrive-d-old.git
-[submodule "tool-kit/publics/yunPan/grive"]
-	path = tool-kit/publics/yunPan/grive
-	url = https://github.com/Grive/grive.git
-[submodule "tool-kit/publics/yunPan/grive2"]
-	path = tool-kit/publics/yunPan/grive2
-	url = https://github.com/vitalif/grive2.git
 [submodule "tool-kit/publics/media/netease/FeelUOwn"]
 	path = tool-kit/publics/media/netease/FeelUOwn
 	url = https://github.com/GdZ/FeelUOwn.git
@@ -358,9 +334,6 @@
 [submodule "configs/private/manifests"]
 	path = configs/private/manifests
 	url = git@git.oschina.net:mr.z/Projekte.git
-[submodule "tool-kit/publics/android/tools_repo"]
-	path = tool-kit/publics/android/tools_repo
-	url = https://github.com/android/tools_repo.git
 [submodule "uni/company/eqplay/source/webService.wiki"]
 	path = uni/company/eqplay/source/webService.wiki
 	url = git@git.oschina.net:mr.z/webService.wiki.git

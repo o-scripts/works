@@ -333,13 +333,13 @@
 	url = https://github.com/TrumanDu/playfish.git
 [submodule "configs/private/manifests"]
 	path = configs/private/manifests
-	url = git@git.oschina.net:mr.z/Projekte.git
+	url = git@git.oschina.net:mr.z/mainfests.git
 [submodule "tool-kit/publics/android/tools_repo"]
 	path = tool-kit/publics/android/tools_repo
 	url = https://github.com/android/tools_repo.git
 [submodule "uni/company/betoptop/db_manage"]
 	path = uni/company/betoptop/db_manage
-	url = git@git.oschina.net:mr.z/db_manage.git
+	url = git@git.oschina.net:betoptop/db_manage.git
 [submodule "libs/publics/android/myrobotlab"]
 	path = libs/publics/android/myrobotlab
 	url = https://github.com/MyRobotLab/repo.git
@@ -518,3 +518,6 @@
 	path = toturs/publics/Awesome-Hacking
     url = https://github.com/Hack-with-Github/Awesome-Hacking.git
 
+[submodule "tool-kit/publics/ui/pencil"]
+	path = tool-kit/publics/ui/pencil
+	url = https://github.com/evolus/pencil.git

@@ -4,15 +4,18 @@
 [submodule "tool-kit/publics/ext4-utils"]
 	path = tool-kit/publics/ext4-utils
 	url = https://github.com/YuLaw/ext4-utils.git
+[submodule "testing/company/cgmobile/monkeyrunner"]
+	path = testing/company/cgmobile/monkeyrunner
+	url = git@github.com:GdZ/AutoTest.git
 [submodule "tool-kit/publics/eDict"]
 	path = tool-kit/publics/eDict
 	url = git@github.com:GdZ/eDict.git
 [submodule "tool-kit/company/excel-writer-xlsx"]
 	path = tool-kit/company/excel-writer-xlsx
 	url = https://github.com/jmcnamara/excel-writer-xlsx.git
-[submodule "tool-kit/publics/go"]
-	path = tool-kit/publics/go
-	url = https://github.com/tav/go.git
+[submodule "configs/private/config"]
+	path = configs/private/config
+	url = git@www.cloris.com:config.git
 [submodule "configs/publics/host.def"]
 	path = configs/publics/host.def
 	url = git@github.com:GdZ/google-hosts.git
@@ -43,9 +46,6 @@
 [submodule "projects/publics/openwrt"]
 	path = projects/publics/openwrt
 	url = https://github.com/openwrt-mirror/openwrt.git
-[submodule "tool-kit/publics/git"]
-	path = tool-kit/publics/git
-	url = https://github.com/git/git
 [submodule "tool-kit/publics/openocd"]
 	path = tool-kit/publics/openocd
 	url = https://github.com/ntfreak/openocd.git
@@ -73,6 +73,15 @@
 [submodule "tool-kit/publics/8021xclient-for-windows"]
 	path = tool-kit/publics/8021xclient-for-windows
 	url = https://github.com/tengattack/8021xclient-for-windows.git
+[submodule "libs/publics/web/jquery-ui"]
+	path = libs/publics/web/jquery-ui
+	url = git@github.com:GdZ/jquery-ui.git
+[submodule "libs/publics/csshake"]
+	path = libs/publics/csshake
+	url = git@github.com:GdZ/csshake.git
+[submodule "libs/publics/kHTTPd-Mini"]
+	path = libs/publics/kHTTPd-Mini
+	url = https://github.com/K-Shadow/kHTTPd-Mini.git
 [submodule "tool-kit/publics/ubuntu-tweak"]
 	path = tool-kit/publics/ubuntu-tweak
 	url = git@github.com:GdZ/ubuntu-tweak.git
@@ -109,9 +118,6 @@
 [submodule "libs/publics/py/simplejson"]
 	path = libs/publics/py/simplejson
 	url = https://github.com/simplejson/simplejson.git
-[submodule "tool-kit/publics/software/remarkable"]
-	path = tool-kit/publics/software/remarkable
-	url = https://github.com/jonschlinkert/remarkable.git
 [submodule "projects/publics/hacker-scripts"]
 	path = projects/publics/hacker-scripts
 	url = https://github.com/NARKOZ/hacker-scripts.git
@@ -120,7 +126,7 @@
 	url = https://notabug.org/koz.ross/awesome-c.git
 [submodule "toturs/publics/awesome-c-cn"]
 	path = toturs/publics/awesome-c-cn
-	url = git@github.com:GdZ/awesome-c-cn.git
+	url = https://github.com/jobbole/awesome-c-cn.git
 [submodule "toturs/publics/awesome-cl"]
 	path = toturs/publics/awesome-cl
 	url = https://github.com/CodyReichert/awesome-cl.git
@@ -166,9 +172,6 @@
 [submodule "toturs/publics/awesome-kotlin"]
 	path = toturs/publics/awesome-kotlin
 	url = https://github.com/JavaBy/awesome-kotlin.git
-[submodule "tool-kit/publics/apfel/syringe"]
-	path = tool-kit/publics/apfel/syringe
-	url = https://github.com/Chronic-Dev/syringe.git
 [submodule "libs/publics/sublime-imefix/sublime-imethod-fix"]
 	path = libs/publics/sublime-imefix/sublime-imethod-fix
 	url = https://github.com/whitequark/sublime-imethod-fix.git
@@ -226,6 +229,9 @@
 [submodule "tool-kit/publics/spiders/jobhunter"]
 	path = tool-kit/publics/spiders/jobhunter
 	url = https://github.com/webmagic-io/jobhunter.git
+[submodule "libs/publics/javascript"]
+	path = libs/publics/javascript
+	url = https://github.com/shakusi2009/javascript.git
 [submodule "toturs/publics/the-way-to-go_ZH_CN"]
 	path = toturs/publics/the-way-to-go_ZH_CN
 	url = https://github.com/shakusi2009/the-way-to-go_ZH_CN.git
@@ -247,9 +253,6 @@
 [submodule "others/topics/loggerhead.vote_against_37"]
 	path = others/topics/loggerhead.vote_against_37
 	url = https://github.com/loggerhead/vote_against_37.git
-[submodule "tool-kit/publics/android/repo"]
-	path = tool-kit/publics/android/repo
-	url = https://github.com/FlymeOS/repo.git
 [submodule "uni/company/betoptop/magento/magento2"]
 	path = uni/company/betoptop/magento/magento2
 	url = https://github.com/magento/magento2
@@ -292,18 +295,12 @@
 [submodule "tool-kit/publics/software/version/gitolite"]
 	path = tool-kit/publics/software/version/gitolite
 	url = git://github.com/sitaramc/gitolite
-[submodule "tool-kit/publics/yunPan/onedrive-d-old"]
-	path = tool-kit/publics/yunPan/onedrive-d-old
-	url = https://github.com/xybu/onedrive-d-old.git
-[submodule "tool-kit/publics/yunPan/grive"]
-	path = tool-kit/publics/yunPan/grive
-	url = https://github.com/Grive/grive.git
-[submodule "tool-kit/publics/yunPan/grive2"]
-	path = tool-kit/publics/yunPan/grive2
-	url = https://github.com/vitalif/grive2.git
 [submodule "tool-kit/publics/media/netease/FeelUOwn"]
 	path = tool-kit/publics/media/netease/FeelUOwn
 	url = https://github.com/GdZ/FeelUOwn.git
+[submodule "uni/company/eqplay/source/webService"]
+	path = uni/company/eqplay/source/webService
+	url = git@git.oschina.net:mr.z/webService.git
 [submodule "configs/publics/init_android_env"]
 	path = configs/publics/init_android_env
 	url = git@github.com:GdZ/init_android_env.git
@@ -337,6 +334,9 @@
 [submodule "tool-kit/publics/android/tools_repo"]
 	path = tool-kit/publics/android/tools_repo
 	url = https://github.com/android/tools_repo.git
+[submodule "uni/company/eqplay/source/webService.wiki"]
+	path = uni/company/eqplay/source/webService.wiki
+	url = git@git.oschina.net:mr.z/webService.wiki.git
 [submodule "uni/company/betoptop/db_manage"]
 	path = uni/company/betoptop/db_manage
 	url = git@git.oschina.net:betoptop/db_manage.git
@@ -449,8 +449,8 @@
 	path = uni/private/software-technik/diagnoseIT
     url = git@github.com:GdZ/diagnoseIT.git
 [submodule "uni/publics/tool-kit/restful/docs/references"]
-	path = uni/publics/tool-kit/restful/docs/references
-	url = https://github.com/GdZ/restful-api-design-references.git
+    path = uni/publics/tool-kit/restful/docs/references
+    url = https://github.com/GdZ/restful-api-design-references.git
 [submodule "uni/company/betoptop/WordPress"]
 	path = uni/company/betoptop/WordPress
 	url = https://github.com/WordPress/WordPress.git
@@ -517,7 +517,25 @@
 [submodule "toturs/publics/Awesome-Hacking"]
 	path = toturs/publics/Awesome-Hacking
     url = https://github.com/Hack-with-Github/Awesome-Hacking.git
-
 [submodule "tool-kit/publics/ui/pencil"]
 	path = tool-kit/publics/ui/pencil
 	url = https://github.com/evolus/pencil.git
+[submodule "tool-kit/publics/py/pyenv"]
+	path = tool-kit/publics/py/pyenv
+	url = https://github.com/yyuu/pyenv.git
+[submodule "toturs/publics/git/learn-git"]
+	path = toturs/publics/git/learn-git
+	url = https://github.com/leosartaj/learn-git.git
+[submodule "toturs/publics/git/Learn-Git-in-30-days"]
+	path = toturs/publics/git/Learn-Git-in-30-days
+	url = https://github.com/doggy8088/Learn-Git-in-30-days.git
+[submodule "projects/publics/android/packages/apps/Gallery2"]
+	path = projects/publics/android/packages/apps/Gallery2
+	url = https://github.com/CyanogenMod/android_packages_apps_Gallery2.git
+[submodule "projects/publics/android/frameworks/base"]
+	path = projects/publics/android/frameworks/base
+	url = https://github.com/CyanogenMod/android_frameworks_base.git
+[submodule "projects/publics/android/patchrom/miui"]
+	path = projects/publics/android/patchrom/miui
+    url = https://github.com/MiCode/patchrom_miui.git
+

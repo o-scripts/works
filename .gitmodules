@@ -542,3 +542,6 @@
 [submodule "toturs/publics/awesome-cloud-native"]
 	path = toturs/publics/awesome-cloud-native
 	url = https://github.com/rootsongjc/awesome-cloud-native.git
+[submodule "toturs/publics/awesome-servicemesh"]
+	path = toturs/publics/awesome-servicemesh
+	url = https://github.com/rootsongjc/awesome-servicemesh.git

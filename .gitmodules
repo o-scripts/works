@@ -539,3 +539,6 @@
 	path = projects/publics/android/patchrom/miui
     url = https://github.com/MiCode/patchrom_miui.git
 
+[submodule "toturs/publics/awesome-cloud-native"]
+	path = toturs/publics/awesome-cloud-native
+	url = https://github.com/rootsongjc/awesome-cloud-native.git

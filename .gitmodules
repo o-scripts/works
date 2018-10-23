@@ -193,12 +193,6 @@
 [submodule "libs/publics/sublime/Packages"]
 	path = libs/publics/sublime/Packages
 	url = https://github.com/sublimehq/Packages.git
-[submodule "projects/publics/android/m75-MX4"]
-	path = projects/publics/android/m75-MX4
-	url = https://github.com/meizuosc/m75.git
-[submodule "projects/publics/android/m576-MX5pro"]
-	path = projects/publics/android/m576-MX5pro
-	url = https://github.com/meizuosc/m576.git
 [submodule "projects/publics/deepmind/AlphaGo"]
 	path = projects/publics/deepmind/AlphaGo
 	url = https://github.com/Rochester-NRT/AlphaGo.git
@@ -529,9 +523,6 @@
 [submodule "toturs/publics/git/Learn-Git-in-30-days"]
 	path = toturs/publics/git/Learn-Git-in-30-days
 	url = https://github.com/doggy8088/Learn-Git-in-30-days.git
-[submodule "projects/publics/android/packages/apps/Gallery2"]
-	path = projects/publics/android/packages/apps/Gallery2
-	url = https://github.com/CyanogenMod/android_packages_apps_Gallery2.git
 [submodule "projects/publics/android/frameworks/base"]
 	path = projects/publics/android/frameworks/base
 	url = https://github.com/CyanogenMod/android_frameworks_base.git
